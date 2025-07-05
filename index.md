@@ -103,12 +103,12 @@ Polycycl. Aromat. Comp. 2021, 42,6017-6032. \\
 
 1. [**Biosynthesis of Diverse Ephedra-Type Alkaloids via a Newly Identified Enzymatic Cascade**](http://dx.doi.org/10.34133/bdr.00482) \\
 Peiling Wu, **Ding Luo**, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>\*</sup> \\
-BioDesign Research, 2024, 6, 0048. \\
+Biodesign res, 2024, 6, 0048. \\
 [[PDF](http://dx.doi.org/10.34133/bdr.00482)\]
 <!-- [[Poster]()\] -->
 
 1. [**Mechanistic effects of solvent systems on the Ni–Sn-catalyzed hydrodeoxygenation of lignin derivatives to none-oxygenates**](https://doi.org/10.1039/d1cy01965a) \\
-**Han He**; **Ding Luo**, Hao Ma, Shuqian Xia<sup>\*</sup>.\\
+Han He; **Ding Luo**, Hao Ma, Shuqian Xia<sup>\*</sup>.\\
 Catal. Sci. Technol, 2022,12, 154-166. \\
 [[PDF](https://pubs.rsc.org/en/content/articlepdf/2022/cy/d1cy01965a)\]
 
