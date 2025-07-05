@@ -57,11 +57,10 @@ In addition, I also have a general interest in:
 [[PDF](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1.full.pdf)\]
 [[BiorXiv](https://doi.org/10.1101/2025.05.18.654694)\]
 [[Code](https://github.com/ld139/GraphKcat)\] 
+
 1. [**Biosynthesis of Diverse Ephedra-Type Alkaloids via a Newly Identified Enzymatic Cascade**](http://dx.doi.org/10.34133/bdr.00482) \\
 Peiling Wu, **Ding Luo**, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>\*</sup> \\
 BioDesign Research, 2024, 6, 0048. \\
-
-<!-- [[Code]()\] -->
 
 1. [**Ligand-Conditioned Side Chain Packing for Flexible Molecular Docking**](https://doi.org/10.1021/acs.jctc.4c01636) \\
 **Ding Luo**, Xiaoyang Qu, Dexin Lu, Yiqiu Wang, Lina Dong, Binju Wang<sup>\*</sup>. \\
