@@ -48,43 +48,40 @@ In addition, I also have a general interest in:
 
 ## SELECTED PUBLICATIONS
 
-[AI for enzyme](#ai-for-enzyme) / [Moleular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
+[AI for enzyme](#ai-for-science) / [Moleular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
 
-#### AI for enzyme
+#### AI for Science
 
 1. [**Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning**](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1) \\
-**Ding Luo**, Xiaoyang Qu, Binju Wang<sup>\*</sup>
+**Ding Luo**, Xiaoyang Qu, Binju Wang<sup>\*</sup>.
 [[PDF](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1.full.pdf)\]
 [[BiorXiv](https://doi.org/10.1101/2025.05.18.654694)\]
+[[Code](https://github.com/ld139/GraphKcat)\] 
+1. [**Biosynthesis of Diverse Ephedra-Type Alkaloids via a Newly Identified Enzymatic Cascade**](http://dx.doi.org/10.34133/bdr.00482) \\
+Peiling Wu, **Ding Luo**, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>\*</sup> \\
+BioDesign Research, 2024, 6, 0048. \\
 
-1. [**Using Language Models to Decipher the Motivation Behind Human Behaviors**](https://arxiv.org/abs/2503.15752) \\
-**Yutong Xie**, Qiaozhu Mei, Walter Yuan, Matthew O. Jackson. \\
-Manuscript in submission. \\
-[[PDF](https://arxiv.org/pdf/2503.15752)\]
-[[arXiv](https://arxiv.org/abs/2503.15752)\]
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5185865)\]
-[[Slides](https://drive.google.com/file/d/1si3lwqvA69tVEHREpxbgSjBjwQu-kxKa/view?usp=sharing)\]
 <!-- [[Code]()\] -->
 
-1. [**How Different AI Chatbots Behave? Benchmarking Large Language Models in Behavioral Economics Games**](https://arxiv.org/abs/2412.12362) \\
-**Yutong Xie**, Yiyao Liu, Zhuang Ma, Lin Shi, Xiyuan Wang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
-The First Workshop on AI Behavioral Science (AIBS) at KDD, 2024. \\
-[[PDF](https://arxiv.org/pdf/2412.12362)\]
-[[arXiv](https://arxiv.org/abs/2412.12362)\]
+1. [**Ligand-Conditioned Side Chain Packing for Flexible Molecular Docking**](https://doi.org/10.1021/acs.jctc.4c01636) \\
+**Ding Luo**, Xiaoyang Qu, Dexin Lu, Yiqiu Wang, Lina Dong, Binju Wang<sup>\*</sup>. \\
+J. Chem. Theory Comput. 2025, 21, 3, 1494–1505. \\
+[[PDF](https://www.biorxiv.org/content/10.1101/2024.11.22.624942v1.full.pdf)\]
+[[BiorXiv](https://www.biorxiv.org/content/10.1101/2024.11.22.624942v1)\]
 <!-- [[Code]()\] -->
-[[Slides](https://drive.google.com/file/d/1-DahTc0Ps-X3jvgeEGev6BMBB7hrDZco/view?usp=sharing)\]
+[[Code](https://github.com/ld139/ApoDock_public)\] 
 
-1. [**A Turing test of whether AI chatbots are behaviorally similar to humans**](https://www.pnas.org/doi/10.1073/pnas.2313925121) \\
-Qiaozhu Mei, **Yutong Xie**, Walter Yuan, Matthew O. Jackson. \\
-PNAS, 2024.  \\
-[[PDF](https://www.pnas.org/doi/epdf/10.1073/pnas.2313925121)\]
-[[arXiv](https://arxiv.org/abs/2312.00798)\]
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4637354)\]
-[[Code](https://github.com/yutxie/ChatGPT-Behavioral)\] 
-[[Slides](https://drive.google.com/file/d/1eGOXTJ49IEMtNqoWNpN4M4Dtn_DzkxaH/view?usp=sharing)\]
-[[UMich News](https://news.umich.edu/chatgpt-acts-more-altruistically-cooperatively-than-humans/)\] 
-[[Stanford News](https://humsci.stanford.edu/feature/study-finds-chatgpts-latest-bot-behaves-humans-only-better)\] 
-[[Swarma Club](https://pattern.swarma.org/study_group_issue/640)\]
+1. [**Enhancing Generalizability in Protein–Ligand Binding Affinity Prediction with Multimodal Contrastive Learning**](https://doi.org/10.1021/acs.jcim.3c01961) \\
+**Ding Luo**, Dandan Liu, Xiaoyang Qu, Lina Dong, Binju Wang<sup>\*</sup>. \\
+J. Chem. Inf. Model. 2024, 64, 6, 1892–1906.  \\
+[[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.3c01961?ref=article_openPDF)\]
+[[Code](https://github.com/ld139/ConBAP)\] 
+
+1. [**A Robust Induced Fit Docking Approach with the Combination of the Hybrid All-Atom/United-Atom/Coarse-Grained Model and Simulated Annealing**](https://doi.org/10.1021/acs.jctc.4c00653) \\
+Dexin Lu，**Ding Luo**，Yuwei Zhang，Binju Wang<sup>\*</sup>. \\
+J. Chem. Theory Comput. 2024, 20, 14, 6414–6423.  \\
+[[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.4c00653?ref=article_openPDF)\]
+
 
 #### Moleular simulations
 
