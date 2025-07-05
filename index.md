@@ -2,22 +2,20 @@
 layout: page
 ---
 
-<img align="right" src="assets/img/IMG_4396.jpeg" style="margin-left:40px; margin-bottom:20px; margin-top:45px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
+<img align="right" src="assets/img/thumb.png" style="margin-left:40px; margin-bottom:20px; margin-top:45px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 **<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
 
-> <i class="fas fa-at"></i> &nbsp; yutxie AT umich DOT edu, 
-yutongxie98 AT gmail DOT com \\
+> <i class="fas fa-at"></i> &nbsp; luoding AT stu DOT xmu DOT edu DOT cn \\
 > <i class="fas fa-link"></i> &nbsp; 
-[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=ZiKjIeMAAAAJ),
+[<i class="fas fa-graduation-cap"></i> Google Scholar](https://scholar.google.com/citations?user=BlQHxToAAAAJ),
 <!-- [<i class="fas fa-graduation-cap"></i> Semantic Scholar](https://www.semanticscholar.org/author/Yutong-Xie/3956514), -->
-[<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie),
-[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie),
-[<i class="fab fa-github"></i> Github](https://github.com/yutxie)
+<!-- [<i class="fab fa-linkedin-in"></i> LinkedIn](https://www.linkedin.com/in/yutxie),
+[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie), -->
+[<i class="fab fa-github"></i> Github](https://github.com/ld139)
 
-I am a Ph.D. candidate and a [Barbour Scholar](https://rackham.umich.edu/rackham-life/diversity-equity-and-inclusion/barbour-scholars/) at the [University of Michigan](https://umich.edu/) [School of Information](https://www.si.umich.edu), advised by [Prof. Qiaozhu Mei](http://www-personal.umich.edu/~qmei/). 
-Prior to this, I received my Bachelor's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) as a member of the [ACM Class](https://acm.sjtu.edu.cn/home), advised by [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Weinan Zhang](http://wnzhang.net).
-
+I am a three years Ph.D. candidate at the [Ximen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
+Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi University of Science and Technology](https://www.sust.edu.cn/), advised by [Prof. Jianbo Tong](https://hg.sust.edu.cn/info/1236/5604.htm).
 <!-- <span style="font-weight: bold; color: red;">I'm looking for tenure-track and postdoctoral positions that start Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing).  -->
 
 ---
