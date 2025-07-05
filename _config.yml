@@ -8,7 +8,8 @@
 ############################
 # --- Required options --- #
 ############################
-
+url: "http://ducmanhphan.github.io"
+baseurl: ""
 # Name of website
 title: My website
 
