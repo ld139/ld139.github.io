@@ -25,8 +25,8 @@ Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi U
 My current research focuses on  leveraging ​​AI and computational approaches​​ to address specific challenges in chemistry and biology that are difficult to resolve through conventional experimental methods. 
 Key applications include::
 <ul style="margin-top: -20px;margin-bottom: -10px;">
-<li>Applying ​​deep learning to enzyme design, engineering, and discovery​ <span style="font-size:11px;">[<a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1">Biorxiv'25</a>,<a href="https://doi.org/10.34133/bdr.0048">BDR'2024</a>]</span>; </li>
-<li>Developing deep learning models to characterize protein-ligand interactions​ <span style="font-size:11px;">[<a href="https://doi.org/10.1021/acs.jcim.3c01961">JCIM'25</a>,<a href="https://doi.org/10.1021/acs.jctc.4c00653">JCTC'24</a><a href="https://doi.org/10.1021/acs.jctc.4c01636">JCTC'25</a>]</span>; </li>
+<li>Applying ​​deep learning to enzyme design, engineering, and discovery​ <span style="font-size:11px;">[<a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1">Biorxiv'25</a>, <a href="https://doi.org/10.34133/bdr.0048">BDR'2024</a>]</span>; </li>
+<li>Developing deep learning models to characterize protein-ligand interactions​ <span style="font-size:11px;">[<a href="https://doi.org/10.1021/acs.jcim.3c01961">JCIM'25</a>, <a href="https://doi.org/10.1021/acs.jctc.4c00653">JCTC'24</a>, <a href="https://doi.org/10.1021/acs.jctc.4c01636">JCTC'25</a>]</span> </li>
 <!-- <li>Aligning AI with human behaviors, objectives, and values. </li> -->
 <!-- <li>Foundation models for human behaviors (<a href="https://arxiv.org/abs/2505.23058">Be.FM</a>) <span style="font-size:11px;">[<a href="">arXiv'25</a>]</span>. </li> -->
 </ul>
