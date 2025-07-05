@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Yutong Xie's Homepage
+title: Ding Luo's Homepage
 
 # Your name to show in the footer
-author: Yutong Xie
+author: Ding Luo
 
 # --- List of links in the navigation bar --- #
 
@@ -18,10 +18,10 @@ navbar-links:
   Research: "#research"
   Publications: "#selected-publications"
   Bio: "bio"
-  CV: "https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing"
+  # CV: "https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing"
   # Blog: "blog"
   # Tags: "tags"
-  MISC: "misc"
+  # MISC: "misc"
 
 # --- Logo --- #
 
