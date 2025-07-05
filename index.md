@@ -48,16 +48,14 @@ In addition, I also have a general interest in:
 
 ## SELECTED PUBLICATIONS
 
-[AI for enzyme](#ai-for-enzyme) / [Moleular simulations](#Moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
+[AI for enzyme](#ai-for-enzyme) / [Moleular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
 
 #### AI for enzyme
 
-1. [**Be.FM: Open Foundation Models for Human Behavior**](https://arxiv.org/abs/2505.23058) \\
-**Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Xingjian Zhang, Jin Huang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
-[[PDF](https://arxiv.org/pdf/2505.23058)\]
-[[arXiv](https://arxiv.org/abs/2505.23058)\]
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5274559)\]
-[[Access Request](https://forms.gle/DAvxJYReqg7midQn9)\]
+1. [**Catalytic pocket-informed augmentation of enzyme kinetic parameters prediction via hierarchical graph learning**](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1) \\
+**Ding Luo**, Xiaoyang Qu, Binju Wang<sup>\*</sup>
+[[PDF](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1.full.pdf)\]
+[[BiorXiv](https://doi.org/10.1101/2025.05.18.654694)\]
 
 1. [**Using Language Models to Decipher the Motivation Behind Human Behaviors**](https://arxiv.org/abs/2503.15752) \\
 **Yutong Xie**, Qiaozhu Mei, Walter Yuan, Matthew O. Jackson. \\
