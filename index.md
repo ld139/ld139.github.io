@@ -58,9 +58,6 @@ In addition, I also have a general interest in:
 [[BiorXiv](https://doi.org/10.1101/2025.05.18.654694)\]
 [[Code](https://github.com/ld139/GraphKcat)\] 
 
-1. [**Biosynthesis of Diverse Ephedra-Type Alkaloids via a Newly Identified Enzymatic Cascade**](http://dx.doi.org/10.34133/bdr.00482) \\
-Peiling Wu, **Ding Luo**, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>\*</sup> \\
-BioDesign Research, 2024, 6, 0048. \\
 
 1. [**Ligand-Conditioned Side Chain Packing for Flexible Molecular Docking**](https://doi.org/10.1021/acs.jctc.4c01636) \\
 **Ding Luo**, Xiaoyang Qu, Dexin Lu, Yiqiu Wang, Lina Dong, Binju Wang<sup>\*</sup>. \\
@@ -84,72 +81,43 @@ J. Chem. Theory Comput. 2024, 20, 14, 6414–6423.  \\
 
 #### Moleular simulations
 
-1. [**Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science**](https://arxiv.org/abs/2412.09628) \\
-**Yutong Xie**<sup>\*</sup>, Yijun Pan<sup>\*</sup>, Hua Xu, Qiaozhu Mei. \\
-Manuscript in submission. \\
-[[PDF](https://arxiv.org/pdf/2412.09628)\]
-[[arXiv](https://arxiv.org/abs/2412.09628)\]
-[[Code](https://github.com/charles-pyj/Bridging-AI-and-Science)\]
+1. [**Computational strategies towards developing novel SARS-CoV-2 Mpro inhibitors against COVID-19**](https://doi.org/10.1016/j.molstruc.2021.131378) \\
+**Ding Luo**, Jian-Bo Tong<sup>\*</sup>, Xing Zhang, Xue-Chun Xiao, Shuai Bian. \\
+J. Mol. Struct. 2022, 1247, 131378. \\
+[[PDF](https://www.sciencedirect.com/science/article/pii/S0022286021015064?via%3Dihub)\]
 
-1. [**MASSW: A New Dataset and Benchmark Tasks for AI-Assisted Scientific Workflows**](https://aclanthology.org/2025.findings-naacl.127/) \\
-Xingjian Zhang<sup>\*</sup>, **Yutong Xie**<sup>\*</sup>, Jin Huang, Jinge Ma, Zhaoying Pan, Qijia Liu, Ziyang Xiong, Tolga Ergen, Dongsub Shim, Honglak Lee, Qiaozhu Mei. \\
-NAACL 2025 Findings. \\
-[[PDF](https://aclanthology.org/2025.findings-naacl.127.pdf)\]
-[[arXiv](https://arxiv.org/abs/2406.06357)\]
-[[Code](https://github.com/xingjian-zhang/massw)\]
-[[HuggingFace](https://huggingface.co/datasets/jimmyzxj/massw)\]
 
-1. [**How Much Space Has Been Explored? Measuring the Chemical Space Covered by Databases and Machine-Generated Molecules**](https://openreview.net/forum?id=Yo06F8kfMa1) \\
-**Yutong Xie**, Ziqiao Xu, Jiaqi Ma, Qiaozhu Mei. \\
-ICLR, 2023. \\
+1. [**Theoretically exploring selective-binding mechanisms of BRD4 through integrative computational approaches**](https://doi.org/10.1080/1062936x.2021.1999317) \\
+**Ding Luo**, Jian-Bo Tong<sup>\*</sup>, Xuechun Xiao, Shuai Bian, Xing Zhang, Jie Wang, Hai-Yin Xu. \\
+SAR QSAR Environ. Res. 2021, 32, 12, 985-1011. \\
+[[PDF](https://www.tandfonline.com/doi/epdf/10.1080/1062936X.2021.1999317?needAccess=true)\]
+
+1. [**3D-QSAR and Molecular Docking Analysis for Natural Aurone Derivatives as Anti-Malarial Agents**](https://doi.org/10.1080/10406638.2021.1973519) \\
+**Ding Luo**, Jian-Bo Tong<sup>\*</sup>, Yi Feng. \\
+Polycycl. Aromat. Comp. 2021, 42,6017-6032. \\
 <!-- AI for Science Workshop at ICML, 2022. \\ -->
-[[PDF](https://openreview.net/pdf?id=Yo06F8kfMa1)\]
-[[arXiv](https://arxiv.org/abs/2112.12542)\]
-[[Code](https://github.com/yutxie/exploration-measures)\] 
-[[SlidesLive](https://iclr.cc/virtual/2023/poster/11769)\] 
-[[Slides](https://drive.google.com/file/d/15Jfl64W7-E_lb5-ecT8n5Qehv4mxEn3A/view?usp=sharing)\] 
-[[Poster](https://iclr.cc/media/PosterPDFs/ICLR%202023/11769.png?t=1682437570.514978)\]
-[[AI Time Talk](https://www.bilibili.com/video/BV12X4y1f7P7/?share_source=copy_web&vd_source=cc7b830a98543ee4bb061e90ba3cc4fd&t=1533)\] 
+[[PDF](https://www.tandfonline.com/doi/epdf/10.1080/10406638.2021.1973519?needAccess=true)\] 
 
-1. [**MARS: Markov Molecular Sampling for Multi-objective Drug Discovery**](https://openreview.net/forum?id=kHSu4ebxFXY) \\
-**Yutong Xie**, Chence Shi, Hao Zhou, Yuwei Yang, Weinan Zhang, Yong Yu, Lei Li.\\
-ICLR, 2021 (<a href="https://iclr.cc/virtual/2021/spotlight/3417">Spotlight presentation <i class="fas fa-video"></i> </a>). \\
-[[PDF](https://openreview.net/pdf?id=kHSu4ebxFXY)\]
-[[arXiv](https://arxiv.org/abs/2103.10432)\]
-[[Code](https://github.com/yutxie/MARS)\] 
-[[SlidesLive](https://iclr.cc/virtual/2021/spotlight/3417)\] 
-[[Slides](https://drive.google.com/file/d/1vbdP1CjAuYj4eB9GX2-3uqmfgSqISIxD/view?usp=sharing)\] 
-[[Poster](https://drive.google.com/file/d/1iCLBQ0RacNZhg0bUIVYaKfPemmWK7Jqc/view?usp=sharing)\] 
-[[AI Time Talk](https://www.bilibili.com/video/BV1Eo4y1172a)\] 
-[[WeChat Article](https://mp.weixin.qq.com/s/RfxKVF9nuG0_DkorTeWxJQ)\]
-
-> We also have a short video showing the evolution of AI and data mining over half a century (1969-2022), featured by KDD 2023. Come take a look :). [[YouTube](https://www.youtube.com/watch?v=J0nB0uRRCo4)\]
 
 #### Other Topics
 
-1. [**A Prompt Log Analysis of Text-to-Image Generation Systems**](https://dl.acm.org/doi/abs/10.1145/3543507.3587430) \\
-**Yutong Xie**<sup>\*</sup>, Zhaoying Pan<sup>\*</sup>, Jinge Ma<sup>\*</sup>, Luo Jie, Qiaozhu Mei. \\
-WebConf (WWW), 2023 (The Creative Web Track). \\
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3543507.3587430)\]
-[[arXiv](https://arxiv.org/abs/2303.04587)\]
-[[Code](https://github.com/zhaoyingpan/prompt_log_analysis)\] 
-[[Video](https://youtu.be/D-N1_lwhNnk)\]
-<!-- [[SlidesLive]()\]  -->
-[[Slides](https://drive.google.com/file/d/1L0D7I0vdcfCSAQ9oB476i9N6mN6rC3ad/view?usp=sharing)\] 
+1. [**Biosynthesis of Diverse Ephedra-Type Alkaloids via a Newly Identified Enzymatic Cascade**](http://dx.doi.org/10.34133/bdr.00482) \\
+Peiling Wu, **Ding Luo**, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>\*</sup> \\
+BioDesign Research, 2024, 6, 0048. \\
+[[PDF](http://dx.doi.org/10.34133/bdr.00482)\]
 <!-- [[Poster]()\] -->
 
-1. [**Multi-View Graph Representation for Programming Language Processing: An Investigation into Algorithm Detection**](https://ojs.aaai.org/index.php/AAAI/article/view/20522) \\
-**Yutong Xie**<sup>\*</sup>, Ting Long<sup>\*</sup>, Xianyu Chen, Weinan Zhang, Qinxiang Cao, Yong Yu.\\
-AAAI, 2022. \\
-[[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/20522/20281)\]
-[[arXiv](https://arxiv.org/abs/2202.12481)\]
-[[Code](https://github.com/githubg0/mvg)\] 
-[[SlidesLive](https://aaai-2022.virtualchair.net/poster_aaai928)\] 
-[[Slides](https://drive.google.com/file/d/1vOYiwoyWEQ1K1aAH-6muqYIcyUiRGGlt/view?usp=sharing)\] 
-[[Poster](https://drive.google.com/file/d/1hmtwlBr709esYcXHez99t09GkF55_WA0/view?usp=sharing)\] 
+1. [**Mechanistic effects of solvent systems on the Ni–Sn-catalyzed hydrodeoxygenation of lignin derivatives to none-oxygenates**](https://doi.org/10.1039/d1cy01965a) \\
+**Han He**; **Ding Luo**, Hao Ma, Shuqian Xia<sup>\*</sup>.\\
+Catal. Sci. Technol, 2022,12, 154-166. \\
+[[PDF](https://pubs.rsc.org/en/content/articlepdf/2022/cy/d1cy01965a)\]
 
+1. [**Steering oxygen-centred radicals with ground-state ene-reductases for enantioselective intermolecular hydroalkoxylations**](https://doi.org/10.1038/s41929-025-01372-z) \\
+Bin Chen, Qiaoyu Zhang, Jinhai Yu, Beibei Zhao, Ran Ge, Zihan Zhang, **Ding Luo**, Binju Wang<sup>\*</sup>, Xiaoqiang Huang<sup>\*</sup>.\\
+Nat Catal, 2025. \\
+[[PDF](https://www.nature.com/articles/s41929-025-01372-z.pdf)\]
 
-<sup>\*</sup> = equal contribution
+<sup>\*</sup> = corresponding author
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last updated: May, 2025 <br>
+Last updated: July, 2025 <br>
