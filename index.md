@@ -50,7 +50,7 @@ In addition, I also have a general interest in:
 
 [AI for enzyme](#ai-for-enzyme) / [Moleular simulations](#Moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
 
-#### AI Behavioral Science
+#### AI for enzyme
 
 1. [**Be.FM: Open Foundation Models for Human Behavior**](https://arxiv.org/abs/2505.23058) \\
 **Yutong Xie**<sup>\*</sup>, Zhuoheng Li<sup>\*</sup>, Xiyuan Wang<sup>\*</sup>, Yijun Pan, Qijia Liu, Xingzhi Cui, Kuang-Yu Lo, Ruoyi Gao, Xingjian Zhang, Jin Huang, Walter Yuan, Matthew O. Jackson, Qiaozhu Mei. \\
@@ -88,7 +88,7 @@ PNAS, 2024.  \\
 [[Stanford News](https://humsci.stanford.edu/feature/study-finds-chatgpts-latest-bot-behaves-humans-only-better)\] 
 [[Swarma Club](https://pattern.swarma.org/study_group_issue/640)\]
 
-#### AI for Science (AI4Science)
+#### Moleular simulations
 
 1. [**Bridging AI and Science: Implications from a Large-Scale Literature Analysis of AI4Science**](https://arxiv.org/abs/2412.09628) \\
 **Yutong Xie**<sup>\*</sup>, Yijun Pan<sup>\*</sup>, Hua Xu, Qiaozhu Mei. \\
