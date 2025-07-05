@@ -34,7 +34,7 @@ Key applications include::
 
 In addition, I also have a general interest in: 
 <ul style="margin-top: -20px;margin-bottom: 15px;">
-<li><a href="#Molecuar simulations"><em>Molecuar simulations</em></a>
+<li><a href="#Molecular simulations"><em>Molecular simulations</em></a>
 <span style="font-size:11px;">[<a href="https://doi.org/10.1016/j.molstruc.2021.131378/">J. Mol. Struct'22</a>, 
 <a href="https://doi.org/10.1080/10406638.2021.1973519">Polycycl. Aromat. Comp'21</a>,
 <a href="https://doi.org/10.1080/1062936x.2021.1999317">SAR QSAR Environ. Res'21</a>, 
@@ -48,7 +48,7 @@ In addition, I also have a general interest in:
 
 ## SELECTED PUBLICATIONS
 
-[AI for enzyme](#ai-for-science) / [Moleular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
+[AI for enzyme](#ai-for-science) / [Molecular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
 
 #### AI for Science
 
