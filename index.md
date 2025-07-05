@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img align="right" src="assets/img/thumb.png" style="margin-left:40px; margin-bottom:20px; margin-top:45px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
+<img align="right" src="assets/img/image_panda.jpg" style="margin-left:40px; margin-bottom:20px; margin-top:45px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
 **<font size="6"> Ding Luo </font> &nbsp; <font size="4"> 罗钉 </font>**
 
