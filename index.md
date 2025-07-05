@@ -74,7 +74,7 @@ J. Chem. Inf. Model. 2024, 64, 6, 1892–1906.  \\
 [[Code](https://github.com/ld139/ConBAP)\] 
 
 1. [**A Robust Induced Fit Docking Approach with the Combination of the Hybrid All-Atom/United-Atom/Coarse-Grained Model and Simulated Annealing**](https://doi.org/10.1021/acs.jctc.4c00653) \\
-Dexin Lu，**Ding Luo**，Yuwei Zhang，Binju Wang<sup>\*</sup>. \\
+Dexin Lu，**Ding Luo**，Yuwei Zhang*，Binju Wang<sup>\*</sup>. \\
 J. Chem. Theory Comput. 2024, 20, 14, 6414–6423.  \\
 [[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.4c00653?ref=article_openPDF)\]
 
