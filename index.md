@@ -48,7 +48,7 @@ In addition, I also have a general interest in:
 
 ## SELECTED PUBLICATIONS
 
-[AI for enzyme](#ai-for-science) / [Molecular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
+[AI for Science](#ai-for-science) / [Molecular simulations](#moleular-simulations) / [Other Topics](#other-topics) / [All Publications (Google Scholar)](https://scholar.google.com/citations?user=BlQHxToAAAAJ)
 
 #### AI for Science
 
@@ -79,7 +79,7 @@ J. Chem. Theory Comput. 2024, 20, 14, 6414–6423.  \\
 [[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.4c00653?ref=article_openPDF)\]
 
 
-#### Moleular simulations
+#### Molecular simulations
 
 1. [**Computational strategies towards developing novel SARS-CoV-2 Mpro inhibitors against COVID-19**](https://doi.org/10.1016/j.molstruc.2021.131378) \\
 **Ding Luo**, Jian-Bo Tong<sup>\*</sup>, Xing Zhang, Xue-Chun Xiao, Shuai Bian. \\
