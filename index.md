@@ -14,8 +14,8 @@ layout: page
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie), -->
 [<i class="fab fa-github"></i> Github](https://github.com/ld139)
 
-I am a three years Ph.D. candidate at the [Xiamen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
-Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi University of Science and Technology](https://www.sust.edu.cn/), advised by [Prof. Jianbo Tong](https://hg.sust.edu.cn/info/1236/5604.htm).
+I am a thrid-year Ph.D. candidate at the [Xiamen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
+<!-- Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi University of Science and Technology](https://www.sust.edu.cn/), advised by [Prof. Jianbo Tong](https://hg.sust.edu.cn/info/1236/5604.htm). -->
 <!-- <span style="font-weight: bold; color: red;">I'm looking for tenure-track and postdoctoral positions that start Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing).  -->
 
 ---

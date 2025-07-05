@@ -17,7 +17,7 @@ navbar-links:
   Homepage: "/"
   Research: "#research"
   Publications: "#selected-publications"
-  Bio: "bio"
+  # Bio: "bio"
   # CV: "https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing"
   # Blog: "blog"
   # Tags: "tags"
