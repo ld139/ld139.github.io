@@ -4,7 +4,7 @@ layout: page
 
 <img align="right" src="assets/img/thumb.png" style="margin-left:40px; margin-bottom:20px; margin-top:45px; border:4px solid #ddd;border-radius:4px; max-width:210px; width:25%; height:auto">
 
-**<font size="6"> Yutong Xie </font> &nbsp; <font size="4"> 谢雨桐 </font>**
+**<font size="6"> Ding Luo </font> &nbsp; <font size="4"> 罗钉 </font>**
 
 > <i class="fas fa-at"></i> &nbsp; luoding AT stu DOT xmu DOT edu DOT cn \\
 > <i class="fas fa-link"></i> &nbsp; 
@@ -14,7 +14,7 @@ layout: page
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie), -->
 [<i class="fab fa-github"></i> Github](https://github.com/ld139)
 
-I am a three years Ph.D. candidate at the [Ximen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
+I am a three years Ph.D. candidate at the [Xiamen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
 Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi University of Science and Technology](https://www.sust.edu.cn/), advised by [Prof. Jianbo Tong](https://hg.sust.edu.cn/info/1236/5604.htm).
 <!-- <span style="font-weight: bold; color: red;">I'm looking for tenure-track and postdoctoral positions that start Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing).  -->
 
@@ -22,31 +22,27 @@ Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi U
 
 ## RESEARCH
 
-My current research focuses on the emerging interdisciplinary field of [<em>AI Behavioral Science</em>](#ai-behavioral-science), whose core research questions have been discussed in our [recent workshops](https://ai-behavioral-science.github.io/). 
-Particularly, my interests include (but are not limited to) the following aspects:
+My current research focuses on  leveraging ​​AI and computational approaches​​ to address specific challenges in chemistry and biology that are difficult to resolve through conventional experimental methods. 
+Key applications include::
 <ul style="margin-top: -20px;margin-bottom: -10px;">
-<li>Understanding the behaviors exhibited by AI <span style="font-size:11px;">[<a href="https://www.pnas.org/doi/10.1073/pnas.2313925121">PNAS'24</a>, <a href="https://arxiv.org/abs/2412.12362">AIBS'24</a>]</span>; </li>
-<li>Leveraging AI to understand human behaviors and facilitate behavioral science research <span style="font-size:11px;">[<a href="https://arxiv.org/abs/2503.15752">arXiv'25</a>]</span>; </li>
+<li>Applying ​​deep learning to enzyme design, engineering, and discovery​ <span style="font-size:11px;">[<a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1">Biorxiv'25</a>]</span>; </li>
+<li>Developing deep learning models to characterize protein-ligand interactions​ <span style="font-size:11px;">[<a href="https://doi.org/10.1021/acs.jcim.3c01961">JCIM'25</a>,<a href="https://doi.org/10.1021/acs.jctc.4c00653">JCTC'24</a><a href="https://doi.org/10.1021/acs.jctc.4c01636">JCTC'25</a>]</span>; </li>
 <!-- <li>Aligning AI with human behaviors, objectives, and values. </li> -->
-<li>Foundation models for human behaviors (<a href="https://arxiv.org/abs/2505.23058">Be.FM</a>) <span style="font-size:11px;">[<a href="">arXiv'25</a>]</span>. </li>
+<!-- <li>Foundation models for human behaviors (<a href="https://arxiv.org/abs/2505.23058">Be.FM</a>) <span style="font-size:11px;">[<a href="">arXiv'25</a>]</span>. </li> -->
 </ul>
 <!-- </p> -->
 
 In addition, I also have a general interest in: 
 <ul style="margin-top: -20px;margin-bottom: 15px;">
-<li><a href="#ai-for-science-ai4science"><em>AI for Science</em></a>
-<span style="font-size:11px;">[<a href="https://aclanthology.org/2025.findings-naacl.127/">NAACL'25</a>, 
-<a href="https://arxiv.org/abs/2412.09628">arXiv'24</a>,
-<a href="https://openreview.net/forum?id=Yo06F8kfMa1">ICLR'23</a>, 
-<a href="https://openreview.net/forum?id=kHSu4ebxFXY">ICLR'21</a>]</span>; </li>
-<li><em>AI for Innovation and Creativity</em>
-<span style="font-size:11px;">[<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3587430">WWW'23</a>]</span>. </li> 
+<li><a href="#Molecuar simulation"><em>Molecuar simulation</em></a>
+<span style="font-size:11px;">[<a href="https://doi.org/10.1016/j.molstruc.2021.131378/">JMS'22</a>, 
+<a href="https://doi.org/10.1080/10406638.2021.1973519">PAC'21</a>,
+<a href="https://doi.org/10.1080/1062936x.2021.1999317">SQER'21</a>, 
+<a href="https://doi.org/10.1016/j.molliq.2021.116235">JML'21</a>]</span>; </li>
 </ul>
 
 <!-- For undergraduate and master students who find my research interesting and would like to work with me, please feel free to reach out! -->
 
-> <span style="font-weight: bold; color: red;">CFP! </span>
-We just launched [a new research topic of AI Behavioral Science in the Frontiers in AI journal](https://www.frontiersin.org/research-topics/69861)! Look forward to your contributions and let's build the conversation together! (Summary deadline July 30, 2025)
 
 ---
 
