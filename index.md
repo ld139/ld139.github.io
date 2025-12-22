@@ -60,7 +60,7 @@ In addition, I also have a general interest in:
 
 
 1. [**A Multimodal Ensemble Framework for Optimal Mutant Prediction and Computational Enzyme Engineering**](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396) \\
-**Ding Luo**<sup>\#</sup>, Huining Ji<sup>\#</sup>, Baodong Hu<sup>\#</sup>, Jinxing Cai<sup>\#</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao, Binju Wang<sup>\*</sup>.
+**Ding Luo**<sup>\#</sup>, Huining Ji<sup>\#</sup>, Baodong Hu<sup>\#</sup>, Jinxing Cai<sup>\#</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao<sup>\*</sup>, Binju Wang<sup>\*</sup>.
 [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396)\]
 [[Code](https://github.com/ld139/GEMS)\] 
 
