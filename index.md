@@ -60,7 +60,7 @@ In addition, I also have a general interest in:
 
 
 1. [**A Multimodal Ensemble Framework for Optimal Mutant Prediction and Computational Enzyme Engineering**](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396) \\
-**Ding Luo**, Huining Ji, Jinxing Cai, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao, Binju Wang<sup>\*</sup>.
+**Ding Luo**, Huining Ji<sup>\#</sup>, Baodong Hu<sup>\#</sup>, Jinxing Cai<sup>\#</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao, Binju Wang<sup>\*</sup>.
 [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396)\]
 [[Code](https://github.com/ld139/GEMS)\] 
 
@@ -119,11 +119,11 @@ Catal. Sci. Technol, 2022,12, 154-166. \\
 [[PDF](https://pubs.rsc.org/en/content/articlepdf/2022/cy/d1cy01965a)\]
 
 1. [**Steering oxygen-centred radicals with ground-state ene-reductases for enantioselective intermolecular hydroalkoxylations**](https://doi.org/10.1038/s41929-025-01372-z) \\
-Bin Chen, Qiaoyu Zhang, Jinhai Yu, Beibei Zhao, Ran Ge, Zihan Zhang, **Ding Luo**, Binju Wang<sup>\*</sup>, Xiaoqiang Huang<sup>\*</sup>.\\
+Bin Chen<sup>\#</sup>, Qiaoyu Zhang<sup>\#</sup>, Jinhai Yu<sup>\#</sup>, Beibei Zhao, Ran Ge, Zihan Zhang, **Ding Luo**, Binju Wang<sup>\*</sup>, Xiaoqiang Huang<sup>\*</sup>.\\
 Nat Catal, 2025. \\
 [[PDF](https://www.nature.com/articles/s41929-025-01372-z.pdf)\]
 
-<sup>\*</sup> = corresponding author
-
+<sup>\*</sup> = Corresponding author
+<sup>\#</sup> = Co-first author
 <p style="color: grey; font-style: normal; text-align: right" >
 Last updated: December, 2025 <br>
