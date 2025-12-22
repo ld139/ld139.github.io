@@ -60,7 +60,7 @@ In addition, I also have a general interest in:
 
 
 1. [**A Multimodal Ensemble Framework for Optimal Mutant Prediction and Computational Enzyme Engineering**](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396) \\
-**Ding Luo**, Huining Ji<sup>\#</sup>, Baodong Hu<sup>\#</sup>, Jinxing Cai<sup>\#</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao, Binju Wang<sup>\*</sup>.
+**Ding Luo**<sup>\#</sup>, Huining Ji<sup>\#</sup>, Baodong Hu<sup>\#</sup>, Jinxing Cai<sup>\#</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao, Binju Wang<sup>\*</sup>.
 [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396)\]
 [[Code](https://github.com/ld139/GEMS)\] 
 
@@ -114,7 +114,7 @@ Biodesign res, 2024, 6, 0048. \\
 <!-- [[Poster]()\] -->
 
 1. [**Mechanistic effects of solvent systems on the Ni–Sn-catalyzed hydrodeoxygenation of lignin derivatives to none-oxygenates**](https://doi.org/10.1039/d1cy01965a) \\
-Han He; **Ding Luo**, Hao Ma, Shuqian Xia<sup>\*</sup>.\\
+Han He, **Ding Luo**, Hao Ma, Shuqian Xia<sup>\*</sup>.\\
 Catal. Sci. Technol, 2022,12, 154-166. \\
 [[PDF](https://pubs.rsc.org/en/content/articlepdf/2022/cy/d1cy01965a)\]
 
