@@ -14,7 +14,7 @@ layout: page
 [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/yutxie), -->
 [<i class="fab fa-github"></i> Github](https://github.com/ld139)
 
-I am a thrid-year Ph.D. candidate at the [Xiamen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
+I am a forth-year Ph.D. candidate at the [Xiamen University](https://www.xmu.edu.cn/) [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/), advised by [Prof. Binju Wang](https://chem.xmu.edu.cn/info/1421/7656.htm). 
 <!-- Prior to this, I received my Bachelor's degree and Master degree from [Shaanxi University of Science and Technology](https://www.sust.edu.cn/), advised by [Prof. Jianbo Tong](https://hg.sust.edu.cn/info/1236/5604.htm). -->
 <!-- <span style="font-weight: bold; color: red;">I'm looking for tenure-track and postdoctoral positions that start Fall 2026! If my research aligns with your interest or you know of any relevant opportunities, I would be more than happy to get in touch :). Please find my</span> [**CV here**](https://drive.google.com/file/d/17HsrAQy3KGlnQOSLAHNBNzqU2rVOJ3hI/view?usp=sharing).  -->
 
@@ -25,7 +25,7 @@ I am a thrid-year Ph.D. candidate at the [Xiamen University](https://www.xmu.edu
 My current research focuses on  leveraging ​​AI and computational approaches​​ to address specific challenges in chemistry and biology that are difficult to resolve through conventional experimental methods. 
 Key applications include:
 <ul style="margin-top: -20px;margin-bottom: -10px;">
-<li>Applying ​​deep learning to enzyme design, engineering, and discovery​ <span style="font-size:11px;">[<a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1">Biorxiv'25</a>, <a href="https://doi.org/10.34133/bdr.0048">BDR'2024</a>]</span>; </li>
+<li>Applying ​​deep learning to enzyme design, engineering, and discovery​ <span style="font-size:11px;">[<a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1">Biorxiv'25</a>, <a href="https://doi.org/10.34133/bdr.0048">BDR'2024</a>, <a href="https://doi.org/10.1002/anie.202521396">Angew'2025</a>]</span>; </li>
 <li>Developing deep learning models to characterize protein-ligand interactions​ <span style="font-size:11px;">[<a href="https://doi.org/10.1021/acs.jcim.3c01961">JCIM'25</a>, <a href="https://doi.org/10.1021/acs.jctc.4c00653">JCTC'24</a>, <a href="https://doi.org/10.1021/acs.jctc.4c01636">JCTC'25</a>]</span> </li>
 <!-- <li>Aligning AI with human behaviors, objectives, and values. </li> -->
 <!-- <li>Foundation models for human behaviors (<a href="https://arxiv.org/abs/2505.23058">Be.FM</a>) <span style="font-size:11px;">[<a href="">arXiv'25</a>]</span>. </li> -->
@@ -57,6 +57,12 @@ In addition, I also have a general interest in:
 [[PDF](https://www.biorxiv.org/content/10.1101/2025.05.18.654694v1.full.pdf)\]
 [[BiorXiv](https://doi.org/10.1101/2025.05.18.654694)\]
 [[Code](https://github.com/ld139/GraphKcat)\] 
+
+
+1. [**A Multimodal Ensemble Framework for Optimal Mutant Prediction and Computational Enzyme Engineering**](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396) \\
+**Ding Luo**, Huining Ji, Jinxing Cai, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao, Binju Wang<sup>\*</sup>.
+[[PDF](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202521396)\]
+[[Code](https://github.com/ld139/GEMS)\] 
 
 
 1. [**Ligand-Conditioned Side Chain Packing for Flexible Molecular Docking**](https://doi.org/10.1021/acs.jctc.4c01636) \\
@@ -120,4 +126,4 @@ Nat Catal, 2025. \\
 <sup>\*</sup> = corresponding author
 
 <p style="color: grey; font-style: normal; text-align: right" >
-Last updated: July, 2025 <br>
+Last updated: December, 2025 <br>
