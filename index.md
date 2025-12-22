@@ -123,7 +123,7 @@ Bin Chen<sup>\#</sup>, Qiaoyu Zhang<sup>\#</sup>, Jinhai Yu<sup>\#</sup>, Beibei
 Nat Catal, 2025. \\
 [[PDF](https://www.nature.com/articles/s41929-025-01372-z.pdf)\]
 
-<sup>\*</sup> = Corresponding author
+<sup>\*</sup> = Corresponding author  
 <sup>\#</sup> = Co-first author
 <p style="color: grey; font-style: normal; text-align: right" >
 Last updated: December, 2025 <br>
