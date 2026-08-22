@@ -41,7 +41,9 @@ layout: page
 }
 sup {
   font-size: 0.72em;
-  vertical-align: super;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.35em;
   line-height: 0;
 }
 .pub-card.no-image {
@@ -131,7 +133,10 @@ I am also interested in molecular simulation and computational studies of cataly
   </div>
 </div>
 
-<div class="pub-card no-image">
+<div class="pub-card">
+  <div class="pub-thumb">
+    <img src="assets/img/publications/dismut.png" alt="Distal mutation effects visual abstract">
+  </div>
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1021/acs.jctc.6c00829">Prediction of Distal Mutation Effects in Enzymes via Integration of Molecular Dynamics Descriptors and Zero-Shot Model</a></div>
     <div class="pub-authors">Yiqiu Wang<sup>&#35;</sup>, <b>Ding Luo</b><sup>&#35;</sup>, Shuming Cheng, Binju Wang<sup>&#42;</sup></div>
