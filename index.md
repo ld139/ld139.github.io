@@ -39,6 +39,11 @@ layout: page
 .pub-links a {
   margin-right: 10px;
 }
+sup {
+  font-size: 0.72em;
+  vertical-align: super;
+  line-height: 0;
+}
 .pub-card.no-image {
   display: block;
   margin-top: 20px;
@@ -108,7 +113,7 @@ I am also interested in molecular simulation and computational studies of cataly
   </div>
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1021/acscatal.6c03874">Enzyme Kinetic Parameter Prediction via Catalytic Pocket-Augmented Machine Learning</a></div>
-    <div class="pub-authors"><b>Ding Luo</b><sup>&#35;</sup>, Huining Ji<sup>&#35;</sup>, Shuming Cheng<sup>&#35;</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Liang Hong, Binju Wang<sup>&ast;</sup></div>
+    <div class="pub-authors"><b>Ding Luo</b><sup>&#35;</sup>, Huining Ji<sup>&#35;</sup>, Shuming Cheng<sup>&#35;</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Liang Hong, Binju Wang<sup>&#42;</sup></div>
     <div class="pub-venue"><i>ACS Catal.</i> <b>2026</b>, 16(13), 12784–12801.</div>
     <div class="pub-links"><a href="https://pubs.acs.org/doi/10.1021/acscatal.6c03874">[Article]</a><a href="https://github.com/ld139/GraphKcat">[Code]</a></div>
   </div>
@@ -120,7 +125,7 @@ I am also interested in molecular simulation and computational studies of cataly
   </div>
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1002/anie.202521396">A Multimodal Ensemble Framework for Optimal Mutant Prediction and Computational Enzyme Engineering</a></div>
-    <div class="pub-authors"><b>Ding Luo</b><sup>&#35;</sup>, Huining Ji<sup>&#35;</sup>, Baodong Hu<sup>&#35;</sup>, Jinxing Cai<sup>&#35;</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao<sup>&ast;</sup>, Binju Wang<sup>&ast;</sup></div>
+    <div class="pub-authors"><b>Ding Luo</b><sup>&#35;</sup>, Huining Ji<sup>&#35;</sup>, Baodong Hu<sup>&#35;</sup>, Jinxing Cai<sup>&#35;</sup>, Kaiqi Wen, Xiaoyang Qu, Mingfeng Cao, Xinrui Zhao<sup>&#42;</sup>, Binju Wang<sup>&#42;</sup></div>
     <div class="pub-venue"><i>Angew. Chem. Int. Ed.</i> <b>2026</b>, 65(6), e21396.</div>
     <div class="pub-links"><a href="https://onlinelibrary.wiley.com/doi/10.1002/anie.202521396">[Article]</a><a href="https://github.com/ld139/GEMS">[Code]</a></div>
   </div>
@@ -129,7 +134,7 @@ I am also interested in molecular simulation and computational studies of cataly
 <div class="pub-card no-image">
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1021/acs.jctc.6c00829">Prediction of Distal Mutation Effects in Enzymes via Integration of Molecular Dynamics Descriptors and Zero-Shot Model</a></div>
-    <div class="pub-authors">Yiqiu Wang<sup>&#35;</sup>, <b>Ding Luo</b><sup>&#35;</sup>, Shuming Cheng, Binju Wang<sup>&ast;</sup></div>
+    <div class="pub-authors">Yiqiu Wang<sup>&#35;</sup>, <b>Ding Luo</b><sup>&#35;</sup>, Shuming Cheng, Binju Wang<sup>&#42;</sup></div>
     <div class="pub-venue"><i>J. Chem. Theory Comput.</i> <b>2026</b>, published online August 10, 2026.</div>
     <div class="pub-links"><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.6c00829">[Article]</a></div>
   </div>
@@ -141,7 +146,7 @@ I am also interested in molecular simulation and computational studies of cataly
   </div>
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1021/acs.jctc.4c01636">Ligand-Conditioned Side Chain Packing for Flexible Molecular Docking</a></div>
-    <div class="pub-authors"><b>Ding Luo</b>, Xiaoyang Qu, Dexin Lu, Yiqiu Wang, Lina Dong, Binju Wang<sup>&ast;</sup></div>
+    <div class="pub-authors"><b>Ding Luo</b>, Xiaoyang Qu, Dexin Lu, Yiqiu Wang, Lina Dong, Binju Wang<sup>&#42;</sup></div>
     <div class="pub-venue"><i>J. Chem. Theory Comput.</i> <b>2025</b>, 21(3), 1494–1505.</div>
     <div class="pub-links"><a href="https://pubs.acs.org/doi/10.1021/acs.jctc.4c01636">[Article]</a><a href="https://github.com/ld139/ApoDock_public">[Code]</a></div>
   </div>
@@ -153,7 +158,7 @@ I am also interested in molecular simulation and computational studies of cataly
   </div>
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1021/acs.jcim.3c01961">Enhancing Generalizability in Protein–Ligand Binding Affinity Prediction with Multimodal Contrastive Learning</a></div>
-    <div class="pub-authors"><b>Ding Luo</b>, Dandan Liu, Xiaoyang Qu, Lina Dong, Binju Wang<sup>&ast;</sup></div>
+    <div class="pub-authors"><b>Ding Luo</b>, Dandan Liu, Xiaoyang Qu, Lina Dong, Binju Wang<sup>&#42;</sup></div>
     <div class="pub-venue"><i>J. Chem. Inf. Model.</i> <b>2024</b>, 64(6), 1892–1906.</div>
     <div class="pub-links"><a href="https://pubs.acs.org/doi/10.1021/acs.jcim.3c01961">[Article]</a><a href="https://github.com/ld139/ConBAP">[Code]</a></div>
   </div>
@@ -165,7 +170,7 @@ I am also interested in molecular simulation and computational studies of cataly
   </div>
   <div class="pub-info">
     <div class="pub-title"><a href="https://doi.org/10.1038/s41929-025-01372-z">Steering Oxygen-Centred Radicals with Ground-State Ene-Reductases for Enantioselective Intermolecular Hydroalkoxylations</a></div>
-    <div class="pub-authors">Bin Chen<sup>&#35;</sup>, Qiaoyu Zhang<sup>&#35;</sup>, Jinhai Yu<sup>&#35;</sup>, Beibei Zhao, Ran Ge, Zihan Zhang, <b>Ding Luo</b>, Binju Wang<sup>&ast;</sup>, Xiaoqiang Huang<sup>&ast;</sup></div>
+    <div class="pub-authors">Bin Chen<sup>&#35;</sup>, Qiaoyu Zhang<sup>&#35;</sup>, Jinhai Yu<sup>&#35;</sup>, Beibei Zhao, Ran Ge, Zihan Zhang, <b>Ding Luo</b>, Binju Wang<sup>&#42;</sup>, Xiaoqiang Huang<sup>&#42;</sup></div>
     <div class="pub-venue"><i>Nat. Catal.</i> <b>2025</b>, 8, 740–748.</div>
     <div class="pub-links"><a href="https://www.nature.com/articles/s41929-025-01372-z">[Article]</a><a href="https://github.com/ld139/QSAR_enz">[Code]</a></div>
   </div>
@@ -182,38 +187,38 @@ I am also interested in molecular simulation and computational studies of cataly
    *Synth. Syst. Biotechnol.*, published online in 2026.
 
 2. **Biosynthesis of Diverse Ephedra-Type Alkaloids via a Newly Identified Enzymatic Cascade.**  
-   Peiling Wu, **Ding Luo**, Yuezhou Wang, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>&ast;</sup>.  
+   Peiling Wu, **Ding Luo**, Yuezhou Wang, Xiaoxu Shang, Binju Wang, Xianming Deng, Jifeng Yuan<sup>&#42;</sup>.  
    *BioDesign Res.* **2024**, 6, 0048.  
    [[Article](https://doi.org/10.34133/bdr.0048)]
 
 ### Protein–Ligand Modeling
 
 1. **A Robust Induced Fit Docking Approach with the Combination of the Hybrid All-Atom/United-Atom/Coarse-Grained Model and Simulated Annealing.**  
-   Dexin Lu, **Ding Luo**, Yuwei Zhang, Binju Wang<sup>&ast;</sup>.  
+   Dexin Lu, **Ding Luo**, Yuwei Zhang, Binju Wang<sup>&#42;</sup>.  
    *J. Chem. Theory Comput.* **2024**, 20(14), 6414–6423.  
    [[Article](https://doi.org/10.1021/acs.jctc.4c00653)]
 
 ### Molecular Simulations
 
 1. **Computational Strategies towards Developing Novel SARS-CoV-2 Mpro Inhibitors against COVID-19.**  
-   **Ding Luo**, Jian-Bo Tong<sup>&ast;</sup>, Xing Zhang, Xue-Chun Xiao, Shuai Bian.  
+   **Ding Luo**, Jian-Bo Tong<sup>&#42;</sup>, Xing Zhang, Xue-Chun Xiao, Shuai Bian.  
    *J. Mol. Struct.* **2022**, 1247, 131378.
 
 2. **Theoretically Exploring Selective-Binding Mechanisms of BRD4 through Integrative Computational Approaches.**  
-   **Ding Luo**, Jian-Bo Tong<sup>&ast;</sup>, Xue-Chun Xiao, Shuai Bian, Xing Zhang, Jie Wang, Hai-Yin Xu.  
+   **Ding Luo**, Jian-Bo Tong<sup>&#42;</sup>, Xue-Chun Xiao, Shuai Bian, Xing Zhang, Jie Wang, Hai-Yin Xu.  
    *SAR QSAR Environ. Res.* **2021**, 32(12), 985–1011.
 
 3. **3D-QSAR and Molecular Docking Analysis for Natural Aurone Derivatives as Anti-Malarial Agents.**  
-   **Ding Luo**, Jian-Bo Tong<sup>&ast;</sup>, Yi Feng.  
+   **Ding Luo**, Jian-Bo Tong<sup>&#42;</sup>, Yi Feng.  
    *Polycycl. Aromat. Compd.* **2022**, 42(9), 6017–6032.
 
 ### Other Topics
 
 1. **Mechanistic Effects of Solvent Systems on the Ni–Sn-Catalyzed Hydrodeoxygenation of Lignin Derivatives to None-Oxygenates.**  
-   Han He, **Ding Luo**, Hao Ma, Shuqian Xia<sup>&ast;</sup>.  
+   Han He, **Ding Luo**, Hao Ma, Shuqian Xia<sup>&#42;</sup>.  
    *Catal. Sci. Technol.* **2022**, 12, 154–166.
 
-<sup>&ast;</sup> Corresponding author  
+<sup>&#42;</sup> Corresponding author  
 <sup>&#35;</sup> Equal contribution
 
 <p style="color: grey; font-style: normal; text-align: right">
